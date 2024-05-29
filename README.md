@@ -2,11 +2,9 @@
 
 [inspired by this website](https://simublast.com/hunger-games-simulator/)
 
-# FUNCTIONALITY MAINLY IS WORK IN PROGRESS (I hate javascript)
+Hosted on: [GitLab Pages](https://1k2s.gitlab.io/hunger-games-website)
 
-### Hosted on: [Github Pages](https://1kill2steal.github.io/hunger-games-website/)
-
-# List of all the players
+## List of all the players
 
 1. rcweebs
 2. NoPengoo
